@@ -6,7 +6,7 @@ body {
     min-height: 100vh;
     padding: 30px;
     
-    background-image: url('/src/imgs/page-background.jpg');
+    background-image: url('src/imgs/page-background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -135,14 +135,14 @@ body {
     opacity: 0.8;
 }
 
-.socials .cv {
+.socials #cv {
     background-color: #06c185;
 }
 
-.socials .linkedin {
+.socials #linkedin {
     background-color: #1d87bd;
 }
 
-.socials .github {
+.socials #github {
     background-color: #545454;
 }
